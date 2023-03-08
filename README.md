@@ -51,13 +51,10 @@ body {
 
 I would like to improve my use of CSS flexbox and to practice more attributes. Making it easy to came up with solutions for my problems.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
-- [https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e) - This gave me ideas on ways to center the div.
-- [Example resource 2](https://www.w3schools.com/cssref/css3_pr_box-shadow.php) - This had helped me on how to put shadows, which adds depth to an object.
-
+- [Absolute Centering in CSS](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e) - This gave me ideas on ways to center the div.
+- [CSS box-shadow Property](https://www.w3schools.com/cssref/css3_pr_box-shadow.php) - This had helped me on how to put shadows, which adds depth to an object.
 
 ## Author
 
